@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am Immaculate Munde, a Results-driven **Frontend Developer**, **Data Analyst**, and **Web3 Enthusiast** with a strong foundation in Mathematics and Computer Science. I specialize in building **scalable web applications**, and I am passionate about solving real-world problems through technology.
+I am a Results-driven **Frontend Developer**, **Data Analyst**, and **Web3 Enthusiast** with a strong foundation in Mathematics and Computer Science. I specialize in building **scalable web applications**, and I am passionate about solving real-world problems through technology.
 
 ---
 
@@ -104,4 +104,4 @@ If you’re a recruiter, mentor, or fellow learner, feel free to connect with me
 
 ---
 
->  _"Learning to code is learning to create and innovate—one line at a time."_
+>  _"Learning to code is learning to create and innovate; one line at a time."_
