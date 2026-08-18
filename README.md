@@ -73,7 +73,7 @@ I am a Results-driven **Full-stack Developer**, **Blockchain Developer**, and **
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [DadaHaven](https://dadahaven.vercel.app/) | A digital safe space and resource platform dedicated to women's safety and support. | Next.js, Tailwind CSS, Supabase, Vercel |
-| [MetroPorter](https://metroporters.com) | A logistics platform bringing interconnectivity i parcel delivery. | Next.js, Tailwind CSS, Supabase, Vercel |
+| [MetroPorter](https://metroporters.com) | A logistics platform bringing interconnectivity in parcel delivery. | Next.js, Tailwind CSS, Supabase, Vercel |
 | [MissFit](https://missfittech.com/) | An app that helps you take precise body measurements using AI, no tape measure or tailor visit needed. | Next.js, TypeScript, API |
 | [TaskTide](https://tasktid.netlify.app/) | A student productivity p;atform for organizing notes, schedules, and group assignments | React, Firebase, Tailwind |
 | [Certified Dada](https://certified-dadas.vercel.app/) | A digital certificate signature system ensuring document authenticity and non-repudiation. | React, Node.js, Cryptography |
