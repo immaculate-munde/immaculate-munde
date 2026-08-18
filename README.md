@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello,there. I'm Immaculate Munde</h1>
-<p align="center">A Results-driven Frontend Developer, Data Analyst, and Web3 Enthusiast with a strong foundation in Mathematics and Computer Science. I specialize in building scalable web applications, and I am passionate about solving real-world problems through technology</p>
+<p align="center">A Results-driven Full-stack Developer, Blockchain developer and UI/UX Designer with a strong foundation in Mathematics and Computer Science. I specialize in building scalable web and mobile applications, and I am passionate about solving real-world problems through technology</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/immaculate-munde/" target="_blank">
@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a Results-driven **Frontend Developer**, **Data Analyst**, and **Web3 Enthusiast** with a strong foundation in Mathematics and Computer Science. I specialize in building **scalable web applications**, and I am passionate about solving real-world problems through technology.
+I am a Results-driven **Full-stack Developer**, **Blockchain Developer**, and **UI/UX Designer** with a strong foundation in Mathematics and Computer Science. I specialize in building **scalable web applications**, and I am passionate about solving real-world problems through technology.
 
 ---
 
@@ -73,9 +73,9 @@ I am a Results-driven **Frontend Developer**, **Data Analyst**, and **Web3 Enthu
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [DadaHaven](https://dadahaven.vercel.app/) | A digital safe space and resource platform dedicated to women's safety and support. | Next.js, Tailwind CSS, Supabase, Vercel |
-| [ClipStash](https://clip-stash.vercel.app/) | A cross-platform clipboard that lets you quickly transfer text via session codes or sign in to build a permanent library of your saved clips. | Next.js, Tailwind CSS, Supabase, Vercel |
+| [MetroPorter](https://metroporters.com) | A logistics platform bringing interconnectivity i parcel delivery. | Next.js, Tailwind CSS, Supabase, Vercel |
+| [MissFit](https://missfittech.com/) | An app that helps you take precise body measurements using AI, no tape measure or tailor visit needed. | Next.js, TypeScript, API |
 | [TaskTide](https://tasktid.netlify.app/) | A student productivity p;atform for organizing notes, schedules, and group assignments | React, Firebase, Tailwind |
-| [MissFit](https://miss-fit-nu.vercel.app/) | An app that helps you take precise body measurements using AI, no tape measure or tailor visit needed. | Next.js, TypeScript, API |
 | [Certified Dada](https://certified-dadas.vercel.app/) | A digital certificate signature system ensuring document authenticity and non-repudiation. | React, Node.js, Cryptography |
 | [AkiLimo](https://akilimo-mvp.vercel.app/) | An agritech solution providing data-driven farming advice and yield predictions. | Data Analytics, Python, Mobile |
 ---
